@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     long long t;
     cin >> t;
-    cout<<t*t<<endl;
+    cout<<3.141592653589793*t*t<<endl;
  
     return 0;
 }
